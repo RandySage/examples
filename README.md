@@ -1,4 +1,5 @@
 # examples
 Examples that I want to share
 
-Regarding the license, contact me if you want to license an example differently and I probably will consent.
+Regarding the Apache license, contact me if you want to license something using
+a different license.
